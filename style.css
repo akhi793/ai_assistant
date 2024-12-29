@@ -9,7 +9,7 @@ body{
     align-items:  center;
     min-height: 100vh;
     flex-direction: column;
-    background-color: black;
+    background-color: #030210;
 }
 img{
     width: 420px;
